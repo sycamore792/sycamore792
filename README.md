@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**sycamore792/sycamore792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!-- for beauty  -->
+<div>&nbsp;</div>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sycamore792" />
+</div>
+<div>&nbsp;</div>
 
-Here are some ideas to get you started:
+# 👋I'm SangYunChang
+#  Coding is my way of mapping the world of my brain
+#  I also often think about life and death, but fuck it, the road is under foot, life is your own! 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
